@@ -20,3 +20,5 @@ body.only main{padding:0}body.only .img{margin:0;border-radius:0;background-colo
 html.only,body.only{background:#fff}body.only main{padding:0}body.only .img{margin:0;border-radius:0;background-color:#fff}
 .vid{display:block;width:100%;height:auto;max-height:100vh;background:#fff}
 .wait{padding:40vh 24px 0;text-align:center;font-size:15px;color:#8a7d6b}
+.fs{display:block;width:calc(100% - 32px);margin:14px auto 0;min-height:56px;padding:0 16px;border:0;border-radius:12px;background:#2b2622;color:#fff;font-size:18px;font-family:inherit;-webkit-tap-highlight-color:transparent}
+.fs:active{background:#4a423b}
